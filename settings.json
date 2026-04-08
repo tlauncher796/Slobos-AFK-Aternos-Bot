@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rock682.aternos.me:34060",
-    "port": 34060,
+    "ip": "rock682.aternos.me",
+    "port":34060,
     "version": "1.21.4",
     "try-creative": false
   },
